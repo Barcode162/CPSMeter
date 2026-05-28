@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0F14</color>
+    <color name="surface">#141A22</color>
+    <color name="surfaceHigh">#1C2530</color>
+    <color name="onSurface">#E6EDF3</color>
+    <color name="onSurfaceDim">#8B98A5</color>
+    <color name="accent">#3DDC97</color>
+    <color name="accentDim">#1F8A5C</color>
+    <color name="tapzone">#11211A</color>
+    <color name="tapzoneActive">#16341F</color>
+</resources>

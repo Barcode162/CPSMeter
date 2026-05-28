@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CPS Meter</string>
+    <string name="tap_here">TAP HERE\nas fast as you can</string>
+    <string name="reset">Reset</string>
+    <string name="mode_free">Free</string>
+    <string name="mode_5s">5s</string>
+    <string name="mode_10s">10s</string>
+    <string name="current">CURRENT</string>
+    <string name="peak">PEAK</string>
+    <string name="taps">TAPS</string>
+    <string name="time">TIME</string>
+    <string name="average">AVERAGE</string>
+</resources>
